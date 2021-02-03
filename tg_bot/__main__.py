@@ -146,7 +146,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                                    [InlineKeyboardButton(text="ADD GRAND DARK FOX TO YOUR GROUP",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
                                                                                    InlineKeyboardButton(text="Source Code",
-                                                                       url="I WILL NOT TELL ITS MY PERSONAL 😁😁😁")
+                                                                       url="https://github.com/LEGENDXOP/GRANDROBOT")
                                                                                  ]]))
 
     else:
